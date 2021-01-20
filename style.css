@@ -14,8 +14,8 @@
 .padre {
   position: relative;
   border-radius: 10px;
-  width: 60%;
-  height: 60vh;
+  width: 100%;
+  height: 100%;
   background-color: #212955;
   box-sizing: border-box;
 }
